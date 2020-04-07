@@ -90,7 +90,7 @@ _**Catatan:**_ _Lampiran jawaban dalam bentuk file dilanmilea.py yang sudah diup
 
 #
 
-### **Soal 3 - 🍽️ Jakarta Food Bangers **
+### **Soal 3 - 🍽️ Jakarta Food Bangers**
 
 Buatlah sebuah __file Python interaktif__ untuk menampilkan rekomendasi tempat makan beserta lokasinya dengan input makanan yang sesuai user inginkan di Jakarta. Gunakan __Zomato API__ [(klik di sini)](https://developers.zomato.com/), login & dapatkan __API Key__ untuk menggunakan API tersebut.
 
